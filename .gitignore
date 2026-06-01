@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Data (scraped, may be large)
+data/skills/
+data/pets/
+
+# Env
+.env
+*.local
