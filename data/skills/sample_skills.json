@@ -1,0 +1,12 @@
+[
+  { "name": "冰霜箭",    "type": "冰", "power": 90,  "accuracy": 100, "pp": 15, "effect": "30%概率冻结目标",          "priority": 0 },
+  { "name": "冰封之地",  "type": "冰", "power": 110, "accuracy": 90,  "pp": 5,  "effect": "降低对手速度",              "priority": 0 },
+  { "name": "火球术",    "type": "火", "power": 80,  "accuracy": 100, "pp": 15, "effect": "10%概率灼烧",              "priority": 0 },
+  { "name": "龙炎冲击",  "type": "火", "power": 130, "accuracy": 85,  "pp": 5,  "effect": "高伤害单体攻击",            "priority": 0 },
+  { "name": "水弹",      "type": "水", "power": 90,  "accuracy": 100, "pp": 15, "effect": "普通水属性攻击",            "priority": 0 },
+  { "name": "波涛汹涌",  "type": "水", "power": 120, "accuracy": 80,  "pp": 5,  "effect": "超强水属性攻击，可能混乱",   "priority": 0 },
+  { "name": "雷电冲击",  "type": "电", "power": 90,  "accuracy": 100, "pp": 15, "effect": "30%概率麻痹",              "priority": 0 },
+  { "name": "草叶刀",    "type": "草", "power": 55,  "accuracy": 95,  "pp": 25, "effect": "多段攻击（2-5次）",         "priority": 0 },
+  { "name": "治愈祈祷",  "type": "普通","power": 0,   "accuracy": 100, "pp": 10, "effect": "恢复使用者50%最大HP",       "priority": 0 },
+  { "name": "影子球",    "type": "幽灵","power": 80,  "accuracy": 100, "pp": 15, "effect": "20%降低对手特防",          "priority": 0 }
+]
